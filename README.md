@@ -5,7 +5,7 @@ KMM port of [Material Color Utilities Java package](https://github.com/material-
 ### Dependency
 
 ```kotlin
-implementation("com.omarkarimlili:material-color-utilities:<version>")
+implementation("com.omarkarimli:material-color-utilities:<version>")
 ```
 
 ### Usage
